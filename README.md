@@ -125,7 +125,7 @@ The default output paths are `Models/best.pt` and `Models/anchors.json`. Use `py
 
 **Pretrained SCOUT checkpoints are not included in this release.** Training creates `Models/best.pt`, containing the selected model state and its training arguments, and `Models/anchors.json`, containing the matching readable anchor metadata.
 
-The supplied `Models/anchors.json` is an example with **50 anchor records for two classes**. It is metadata, not a trained model checkpoint. Run training to generate a matching checkpoint and anchor file, and keep that pair together when running inference.
+Run training to generate a matching checkpoint and anchor file, and keep that pair together when running inference.
 
 ## 🚅 Inference
 
