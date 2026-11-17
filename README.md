@@ -160,3 +160,17 @@ Use the same encoder, class count, and maximum length as the training run. The e
 ## 📄 License
 
 See [LICENSE](LICENSE) for the license information supplied with this release. The provided file contains an abbreviated MIT notice.
+
+## 📚 Citation
+
+If you find this work useful in your research, please cite:
+
+```bibtex
+@inproceedings{jia2026scout,
+  title={SCOUT: Selective Coupling via Optimal Unbalanced Transport for Interpretable Text Classification},
+  author={Jia, Junhao and Zheng, Hanwen and Wu, Yueyi and Chen, Huangwei and Wang, Haishuai and Bu, Jiajun and Wu, Lei},
+  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={6413--6431},
+  year={2026}
+}
+```
